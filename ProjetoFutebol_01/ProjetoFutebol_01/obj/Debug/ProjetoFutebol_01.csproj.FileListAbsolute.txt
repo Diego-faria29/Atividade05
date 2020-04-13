@@ -1,0 +1,6 @@
+C:\Users\digui\source\repos\ProjetoFutebol_01\ProjetoFutebol_01\bin\Debug\ProjetoFutebol_01.exe.config
+C:\Users\digui\source\repos\ProjetoFutebol_01\ProjetoFutebol_01\bin\Debug\ProjetoFutebol_01.exe
+C:\Users\digui\source\repos\ProjetoFutebol_01\ProjetoFutebol_01\bin\Debug\ProjetoFutebol_01.pdb
+C:\Users\digui\source\repos\ProjetoFutebol_01\ProjetoFutebol_01\obj\Debug\ProjetoFutebol_01.csprojAssemblyReference.cache
+C:\Users\digui\source\repos\ProjetoFutebol_01\ProjetoFutebol_01\obj\Debug\ProjetoFutebol_01.exe
+C:\Users\digui\source\repos\ProjetoFutebol_01\ProjetoFutebol_01\obj\Debug\ProjetoFutebol_01.pdb
